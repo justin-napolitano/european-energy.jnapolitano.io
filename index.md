@@ -1,12 +1,27 @@
 ---
-slug: "github-european-energy.jnapolitano.io"
-title: "european-energy.jnapolitano.io"
-repo: "justin-napolitano/european-energy.jnapolitano.io"
-githubUrl: "https://github.com/justin-napolitano/european-energy.jnapolitano.io"
-generatedAt: "2025-11-23T08:54:26.303054Z"
-source: "github-auto"
+slug: github-european-energy.jnapolitano.io
+title: Foundation for a European Energy Data Platform Project
+repo: justin-napolitano/european-energy.jnapolitano.io
+githubUrl: https://github.com/justin-napolitano/european-energy.jnapolitano.io
+generatedAt: '2025-11-23T08:54:26.303054Z'
+source: github-auto
+summary: >-
+  Overview of a personal project consolidating European energy data for analysis with modular design
+  and backend services.
+tags:
+  - energy-data
+  - european-energy
+  - data-platform
+  - python
+  - web-application
+seoPrimaryKeyword: european energy data platform
+seoSecondaryKeywords:
+  - energy data aggregation
+  - data visualization
+  - node.js backend
+  - python processing
+seoOptimized: true
 ---
-
 
 # Project Overview: european-energy.jnapolitano.io
 
