@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - node.js backend
   - python processing
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.85
+topicFamilyNotes: >-
+  The project focuses on consolidating, processing, and analyzing European energy data, establishing
+  a data platform with modular backend services for data ingestion and processing, which aligns well
+  with the 'Datascience' family description involving data workflows, ETL pipelines, and data
+  analysis.
 ---
 
 # Project Overview: european-energy.jnapolitano.io
@@ -50,3 +57,4 @@ The repository name suggests a personal or portfolio project hosted under the de
 
 ## Summary
 This repository serves as a foundation for a European energy data platform. Future work should focus on clarifying scope, documenting architecture, and building core features systematically. Returning to the project will require assessing the current state of code and data, then prioritizing tasks aligned with the project's goals.
+
