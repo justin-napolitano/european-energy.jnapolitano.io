@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/european-energy.jnapolitano.io
 generatedAt: '2025-11-24T21:34:41.466Z'
 source: github-auto
 summary: >-
-  Explore a web-based application for analyzing European energy data, including
-  setup instructions and future development plans.
+  Explore a web-based application for analyzing European energy data, including setup instructions
+  and future development plans.
 tags:
   - energy data
   - web application
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - data ingestion and processing
   - energy metrics visualization
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -88,3 +88,4 @@ python main.py
 ---
 
 *Note: This README is based on assumptions due to lack of explicit project details.*
+
