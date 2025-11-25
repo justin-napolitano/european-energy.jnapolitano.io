@@ -1,19 +1,31 @@
 ---
 slug: github-european-energy-jnapolitano-io
 id: github-european-energy-jnapolitano-io
-title: european-energy.jnapolitano.io
+title: European Energy Data Project Overview and Setup Guide
 repo: justin-napolitano/european-energy.jnapolitano.io
 githubUrl: https://github.com/justin-napolitano/european-energy.jnapolitano.io
 generatedAt: '2025-11-24T21:34:41.466Z'
 source: github-auto
 summary: >-
-  A project repository focused on European energy data or analytics. This
-  repository appears to be a web-based application or data platform related to
-  European energy, though specific details are not provided.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore the European energy data project, its features, tech stack, and setup
+  instructions for running the application.
+tags:
+  - energy data
+  - web application
+  - data visualization
+  - node.js
+  - python
+  - npm
+  - git
+  - data analytics
+seoPrimaryKeyword: european energy data project
+seoSecondaryKeywords:
+  - energy analytics platform
+  - data ingestion tools
+  - web-based energy metrics
+  - project setup instructions
+  - data visualization techniques
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
